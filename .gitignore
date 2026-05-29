@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+.env.local
+*.key
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Generated media
+assets/images/
+assets/videos/
+assets/audio/
+!assets/images/reference/
+
+# Editor
+.vscode/
+.idea/
+
+# Recruitment scratch space
+.claude/agents/candidates/*
+!.claude/agents/candidates/.gitkeep
