@@ -1,5 +1,7 @@
 # Agent Factory 🏭
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 Ett självorganiserande agent-team som bygger sig självt. Agenter som rekryterar agenter.
 
 I stället för att handskapa ett team startar du med två kärnagenter, CEO och HR, som bygger upp resten utifrån projektets behov. CEO intervjuar dig, HR skapar kandidater, du väljer vilka som anställs. Alla agenter kan sedan be HR om nya kollegor när de upptäcker att en kompetens saknas.
